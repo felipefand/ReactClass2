@@ -1,7 +1,9 @@
-# Getting Started with Create React App
+# TaskClock
+
+A Task chronometer made with Typescript, React and Scss to practice, the project is from an Alura course.
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
