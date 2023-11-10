@@ -1,6 +1,6 @@
 # TaskClock
 
-A Task chronometer made with Typescript, React and Scss to practice, the project is from an Alura course.
+A Task chronometer made with the intention to practice Typescript along with React and Scss, the project is from an Alura course.
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
